@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+## 🙋‍♀️ The promise of blockchain technology in the Media & Entertainment and Music industry cannot be overstated. The number of stakeholders woven into film, television, new media, and musical works number in the hundreds and thousands with all of them taking a spot on a payments ledger and having some type of agreement binding them to the creator or production entity.
 <!--
 
 **Here are some ideas to get you started:**
